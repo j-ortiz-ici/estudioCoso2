@@ -9,6 +9,7 @@ public class CasoPalindromo {
     }
 
     public static String getInput(String message) {
+        //aaaaaaaaa
         Scanner scanner = new Scanner(System.in);
         System.out.println(message);
         return scanner.nextLine();
