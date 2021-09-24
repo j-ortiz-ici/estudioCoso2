@@ -33,6 +33,7 @@ public class CasoPalindromo {
                 return false;
             }
         }
+        System.out.println("test");
         return true;
     }
 
@@ -43,6 +44,5 @@ public class CasoPalindromo {
         else
             System.out.println("La palabra no es palindromo");
     }
-
 
 }
